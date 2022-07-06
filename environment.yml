@@ -1,0 +1,17 @@
+name: mnist-model
+channels:
+  - conda-forge
+  - default
+dependecies:
+  - ipython=7.29.0
+  - python=3.9
+  - ipykernel=6.15
+  - ipywidgets=7.6
+  - jupyterlab=3.4
+  - black=22.6  # code formatter
+  - matplotlib=3.5
+  - numpy=1.22
+  - pandas=1.4
+  - plotly=5.9
+  - scikit-learn=1.1
+  - scipy=1.8
