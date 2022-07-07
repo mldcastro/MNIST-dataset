@@ -2,7 +2,7 @@ name: mnist-model
 channels:
   - conda-forge
   - default
-dependecies:
+dependencies:
   - ipython=7.29.0
   - python=3.9
   - ipykernel=6.15
