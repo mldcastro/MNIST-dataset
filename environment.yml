@@ -9,6 +9,7 @@ dependencies:
   - ipywidgets=7.6
   - jupyterlab=3.4
   - nbdime=3.1
+  - jupyterlab-git
   - jupyterlab_code_formatter=1.4  # black for jupyter
   - black=22.6  # code formatter
   - matplotlib=3.5
